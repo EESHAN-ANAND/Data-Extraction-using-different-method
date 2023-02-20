@@ -5,4 +5,5 @@ Once you have access to the API, you can use programming languages to send reque
 
 ### Where the data is extracted?
 The data is extrated from the IMDB database using the IMDB api.</br> 
-Using the API url provided from the IMDB website we can access the data of the top rated movies which is present in the json format and we can work out our way through pyhon using the request library.
+Using the API url provided from the IMDB website we can access the data of the top rated movies which is present in the json format and we can work out our way through pyhon using the request library.</br>
+The requests library is a popular Python library for making HTTP requests. It abstracts the complexities of making requests behind a simple API, making it easy to send HTTP/1.1 requests and handle responses in Python.
